@@ -1,0 +1,1 @@
+target_sources(dvsim PRIVATE Event.cpp EventManager.cpp EventQueue.cpp Logger.cpp NetworkBuilder.cpp Node.cpp Packet.cpp RoutingTableEntry.cpp)

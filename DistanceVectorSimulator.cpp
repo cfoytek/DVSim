@@ -6,15 +6,15 @@
 */
 
 #include <iostream>
-#include <math.h>
+#include <cmath>
 #include <sstream>
 #include <fstream>
-#include <stdlib.h>
+#include <cstdlib>
 #include <unistd.h>
-#include "defines.h"
-#include "NetworkBuilder.h"
-#include "EventManager.h"
-#include "Logger.h"
+#include "src/defines.h"
+#include "src/NetworkBuilder.h"
+#include "src/EventManager.h"
+#include "src/Logger.h"
 
 using namespace std;
 
