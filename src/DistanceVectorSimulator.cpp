@@ -11,10 +11,10 @@
 #include <fstream>
 #include <cstdlib>
 #include <unistd.h>
-#include "src/defines.h"
-#include "src/NetworkBuilder.h"
-#include "src/EventManager.h"
-#include "src/Logger.h"
+#include "defines.h"
+#include "NetworkBuilder.h"
+#include "EventManager.h"
+#include "Logger.h"
 
 using namespace std;
 
